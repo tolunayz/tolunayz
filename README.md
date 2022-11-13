@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tolunayz
 - 👀 I’m interested in Unity and C#
 - 🌱 I’m currently learning Unity , C# ,Java , OOP.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tolunayayay@gmail.com
 
 <!---
